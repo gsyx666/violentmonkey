@@ -13,6 +13,9 @@ buttonConfirmReinstallation:
 buttonDisable:
   description: Button to disable a script.
   message: Dezactivează
+buttonDownloadThemes:
+  description: Button in Violentmonkey settings for editor.
+  message: Descarcă teme
 buttonEdit:
   description: Button to edit a script.
   message: Editează
@@ -499,6 +502,9 @@ labelSyncService:
 labelSyncUsername:
   description: Label for input to hold username.
   message: 'Nume de utilizator: '
+labelTheme:
+  description: Label for the visual theme option.
+  message: 'Temă:'
 labelTranslator:
   description: Label of translator.
   message: 'Traducător: '
